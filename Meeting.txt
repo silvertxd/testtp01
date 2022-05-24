@@ -1,4 +1,5 @@
 class Meeting{
 Meeting()
 ~Meeting()
+void show(){}
 }
